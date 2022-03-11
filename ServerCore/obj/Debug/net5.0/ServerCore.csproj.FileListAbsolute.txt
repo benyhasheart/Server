@@ -1,0 +1,16 @@
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.exe
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.deps.json
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.runtimeconfig.json
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.runtimeconfig.dev.json
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.dll
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ref\ServerCore.dll
+E:\Projects\Server\ServerCore\bin\Debug\net5.0\ServerCore.pdb
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.csproj.AssemblyReference.cache
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.AssemblyInfoInputs.cache
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.AssemblyInfo.cs
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.csproj.CoreCompileInputs.cache
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.dll
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ref\ServerCore.dll
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.pdb
+E:\Projects\Server\ServerCore\obj\Debug\net5.0\ServerCore.genruntimeconfig.cache
