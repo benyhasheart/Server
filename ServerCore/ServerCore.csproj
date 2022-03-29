@@ -3,7 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+<<<<<<< HEAD
     <StartupObject>ServerCore.Socket1</StartupObject>
+=======
+    <StartupObject>ServerCore.TestTLS</StartupObject>
+>>>>>>> 847722bf715076b8e3a8c04cef03bc6c0a82bfe3
   </PropertyGroup>
 
 </Project>
