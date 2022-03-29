@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sosik\\.nuget\\packages\\": {}
+    "C:\\Users\\benyhasheart\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Server\\DummyClient\\DummyClient.csproj",
+      "projectUniqueName": "E:\\code\\Server\\DummyClient\\DummyClient.csproj",
       "projectName": "DummyClient",
-      "projectPath": "E:\\Projects\\Server\\DummyClient\\DummyClient.csproj",
-      "packagesPath": "C:\\Users\\sosik\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Server\\DummyClient\\obj\\",
+      "projectPath": "E:\\code\\Server\\DummyClient\\DummyClient.csproj",
+      "packagesPath": "C:\\Users\\benyhasheart\\.nuget\\packages\\",
+      "outputPath": "E:\\code\\Server\\DummyClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sosik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\benyhasheart\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

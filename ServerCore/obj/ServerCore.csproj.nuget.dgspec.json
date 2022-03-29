@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Server\\ServerCore\\ServerCore.csproj": {}
+    "E:\\code\\Server\\ServerCore\\ServerCore.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Server\\ServerCore\\ServerCore.csproj": {
+    "E:\\code\\Server\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "E:\\code\\Server\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "E:\\Projects\\Server\\ServerCore\\ServerCore.csproj",
-        "packagesPath": "C:\\Users\\sosik\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Server\\ServerCore\\obj\\",
+        "projectPath": "E:\\code\\Server\\ServerCore\\ServerCore.csproj",
+        "packagesPath": "C:\\Users\\benyhasheart\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\Server\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sosik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\benyhasheart\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

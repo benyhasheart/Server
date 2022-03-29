@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DummyClient
-build_property.ProjectDir = E:\Projects\Server\DummyClient\
+build_property.ProjectDir = E:\code\Server\DummyClient\
