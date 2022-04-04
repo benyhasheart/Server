@@ -5,7 +5,6 @@ E:\code\Server\DummyClient\bin\Debug\net5.0\DummyClient.runtimeconfig.dev.json
 E:\code\Server\DummyClient\bin\Debug\net5.0\DummyClient.dll
 E:\code\Server\DummyClient\bin\Debug\net5.0\ref\DummyClient.dll
 E:\code\Server\DummyClient\bin\Debug\net5.0\DummyClient.pdb
-E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.csproj.AssemblyReference.cache
 E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
 E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.AssemblyInfoInputs.cache
 E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.AssemblyInfo.cs
@@ -14,3 +13,4 @@ E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.dll
 E:\code\Server\DummyClient\obj\Debug\net5.0\ref\DummyClient.dll
 E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.pdb
 E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.genruntimeconfig.cache
+E:\code\Server\DummyClient\obj\Debug\net5.0\DummyClient.csproj.AssemblyReference.cache
