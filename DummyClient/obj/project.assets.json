@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\Server\\DummyClient\\DummyClient.csproj",
+      "projectUniqueName": "E:\\code\\Server1\\DummyClient\\DummyClient.csproj",
       "projectName": "DummyClient",
-      "projectPath": "E:\\code\\Server\\DummyClient\\DummyClient.csproj",
+      "projectPath": "E:\\code\\Server1\\DummyClient\\DummyClient.csproj",
       "packagesPath": "C:\\Users\\benyhasheart\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\Server\\DummyClient\\obj\\",
+      "outputPath": "E:\\code\\Server1\\DummyClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\benyhasheart\\AppData\\Roaming\\NuGet\\NuGet.Config",
